@@ -18,7 +18,7 @@ A modern and responsive restaurant website built with **HTML, CSS, and JavaScrip
 - CSS3
 - JavaScript
 
-## Screenshots
+## Screenshot
 
 ![Home Page Screenshot](screenshots/landing-page.png)
 
